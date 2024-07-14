@@ -1,0 +1,33 @@
+.card img{
+    height: 15rem !important;
+    object-fit: cover;
+}
+.green-circle{
+    width: 12px;
+    height: 12px;
+    background-color: rgb(83, 105, 48);
+    border-radius:50% ;
+    margin-right: 5px;
+}
+.submit-container{
+    display: flex;
+    justify-content: center;
+}
+.submit-button{
+    margin-top: 10px;
+    padding: 10px 25px !important;
+}
+.in-stock{
+    color: rgb(83, 105, 48);
+}
+.out-stock{
+    color: red;
+
+}
+.red-circle{
+    width: 12px;
+    height: 12px;
+    background-color: red;
+    border-radius:50% ;
+    margin-right: 5px;
+}
